@@ -8,7 +8,7 @@
   },
   "types": "dist/index.d.ts",
   "files": [
-    "/dist"
+    "/dist/*"
   ],
   "author": "1enrique3 <enriquerblx@gmail.com> (https://github.com/1enrique3)",
   "license": "MIT",
